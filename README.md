@@ -10,6 +10,11 @@
 
 [How to play Simon Game](https://www.youtube.com/watch?v=1Yqj76Q4jJ4)
 
+## Play the Game 
+<p text-align="justify">You can play the game by clicking on the following link:</p>
+
+[Play the Game](https://pasa1912.github.io/The-Simon-Game/)
+
 ## References:
 * [Udemy](https://udemy.com/course/the-complete-web-development-bootcamp)
 * [Wikipedia](https://en.wikipedia.org/wiki/Simon_(game))
