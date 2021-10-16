@@ -19,3 +19,7 @@
 * [Udemy](https://udemy.com/course/the-complete-web-development-bootcamp)
 * [Wikipedia](https://en.wikipedia.org/wiki/Simon_(game))
 * [Marbles The Brain Stone](https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w)
+
+## Created and Maintained by:
+[Paritosh Sanadhya](https://github.com/Pasa1912)
+
