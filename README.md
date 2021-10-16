@@ -21,5 +21,6 @@
 * [Marbles The Brain Stone](https://www.youtube.com/channel/UCEPZPgtnTvj2F3qTCLfaP4w)
 
 ## Created and Maintained by:
-[Paritosh Sanadhya](https://github.com/Pasa1912)
+* [Paritosh Sanadhya](https://github.com/Pasa1912)
+* [Akanksha Priya](https://github.com/Spring-dot)
 
