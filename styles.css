@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #b119df;
 }
 
 #level-title {
@@ -22,17 +22,17 @@ body {
   display: inline-block;
   height: 200px;
   width: 200px;
-  border: 10px solid black;
+  border: 10px solid rgba(0, 0, 0, 0.788);
   border-radius: 20%;
 }
 
 .game-over {
-  background-color: red;
+  background-color: rgb(233, 19, 90);
   opacity: 0.8;
 }
 
 .red {
-  background-color: red;
+  background-color: #ff0000;
 }
 
 .green {
@@ -44,10 +44,10 @@ body {
 }
 
 .yellow {
-  background-color: yellow;
+  background-color: #ffff00;
 }
 
 .pressed {
   box-shadow: 0 0 20px white;
-  background-color: grey;
+  background-color: rgba(128, 128, 128, 0.767);
 }
